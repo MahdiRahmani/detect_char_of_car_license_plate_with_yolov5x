@@ -19,4 +19,5 @@ This code deploy with 'python==3.9'
 3. Download pretraind model from <a href="https://drive.google.com/u/0/uc?id=1qmRyXvcNS_PGhomRK1tT_nslnBmM5OHZ&export=download" target="_blank">LINK</a> and set address of this model to main.py:
 - `model_path = r'.../best.pt'`
 4. Finally, you can run 'main.py'
+- `If you are in Iran, to run for the first time, you need to do this with VPN`
 ###### MAHDI RAHMANI
