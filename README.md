@@ -16,7 +16,7 @@ This code deploy with 'python==3.9'
 2. For install our project’s Python requirements, we need to activate the virtual environment. You can do that by typing:
 - Linux: `source myprojectenv/bin/activate` or Windows: `myprojectenv/Scripts/activate`
 - `pip install -r req.txt`
-3. Download pretraind model from <a href="https://drive.google.com/u/0/uc?id=1qmRyXvcNS_PGhomRK1tT_nslnBmM5OHZ&export=download">LINK</a> and set address of this model to main.py:
+3. Download pretraind model from <a href="https://drive.google.com/u/0/uc?id=1qmRyXvcNS_PGhomRK1tT_nslnBmM5OHZ&export=download" target="_blank">LINK</a> and set address of this model to main.py:
 - `model_path = r'.../best.pt'`
 4. Finally, you can run 'main.py'
 ###### MAHDI RAHMANI
